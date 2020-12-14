@@ -14,7 +14,7 @@ namespace POO_Static
             return cotacaoDolar * valorUS;
         }
 
-        internal static float realParaEuro()
+        public static float realParaEuro()
         {
             throw new NotImplementedException();
         }
